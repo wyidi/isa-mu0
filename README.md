@@ -1,4 +1,4 @@
-# isa-mu0
+# Muon
 Instruction Set Architecture of MU0 written in haskell
 
 ### Definition
